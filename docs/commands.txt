@@ -1,0 +1,6 @@
+Currently defined PR commands
+
+Session-Terminate :: Terminates the current session (bot instance), no questions asked. Does NOT terminate any other sessions within the same network.
+Scan-LocalAreaSubnet :: If within a LAN, scans for fellows connected to the same LAN subnet this instance is connected to.
+Scan-LocalArea :: If within a LAN, scans all LAN subnets for fellows connected to the LAN.
+Scan-Internet :: Scans the internet for fellows.
