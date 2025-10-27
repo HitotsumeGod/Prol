@@ -1,0 +1,7 @@
+# # # Sample PR script for printing information about currently set rules and features # # #
+Enumerate-Commands
+Enumerate-Ruleables
+Enumerate-Rules
+Enumerate-LocalScripts
+Enumerate-LocalRuleScripts
+Enumerate-CurrentRules
