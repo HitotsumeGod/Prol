@@ -1,0 +1,9 @@
+# # # Sample startup script for a Prol bot connecting to a botnet # # #
+IF Check-Nat (
+    System-Terminate
+)
+Rule:logperms
+Rule:foreignclients
+Rule:comms
+Rule:independence
+Open-Communications
