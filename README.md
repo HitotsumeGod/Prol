@@ -1,2 +1,2 @@
-# Prol
-A Decentralized Internet Botnet
+# Prol - A Decentralized Internet Botnet
+The successor to APP, Prol defines a set of rules and protocols for its instances to communicatea cross the span of the internet, without knowing one another's IP addresses ahead of time. A botnet may be defined by a cluster rule, and then, referencing that rule and its details, any command may be sent to the entire botnet via a message sent to an arbitrary member of the 'net; in other words, there is no C&C, and all bots in the network are equals.
